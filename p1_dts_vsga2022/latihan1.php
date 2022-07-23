@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Menentukan Luas Lingkaran</title>
+    <title>Menentukan Luas Lingkaran dan keliling</title>
 </head>
 <body>
 <form method="POST" action="">
